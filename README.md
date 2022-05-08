@@ -25,7 +25,7 @@
 <a href="https://stackoverflow.com/users/13094666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13094666" height="30" width="40" /></a>
 <a href="https://fb.com/abbosbekrakhmonov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abbosbekrakhmonov" height="30" width="40" /></a>
 <a href="https://instagram.com/rakhmonov_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rakhmonov_dev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucwnuamevhnfqson4s2cxo4w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucwnuamevhnfqson4s2cxo4w" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/ucwnuamevhnfqson4s2cxo4w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucwnuamevhnfqson4s2cxo4w" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rakhmonov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rakhmonov" height="30" width="40" /></a>
 </p>
 
