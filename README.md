@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Node.js, Express.js, MongoDB, Typescript, Next.js**
 
-- 👨‍💻 All of my projects are available at [rakhmonov.uz](rakhmonov.uz)
+- 👨‍💻 All of my projects are available at [rakhmonov.uz](https://rakhmonov.uz)
 
 - 💬 Ask me about **React**
 
