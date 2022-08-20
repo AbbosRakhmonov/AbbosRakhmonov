@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Algorithmic.uz](Algorithmic.uz)
+- 🔭 I’m currently working on [Alo24](http://80.89.239.33:81/)
 
 - 🌱 I’m currently learning **Node.js, Express.js, MongoDB, Typescript, Next.js**
 
