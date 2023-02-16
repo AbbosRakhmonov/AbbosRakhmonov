@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abbos</h1>
+https://drive.google.com/file/d/10lzuedu4n9w_ZlavYfYxaZXHuyfSA8Hq/view?usp=sharing
 <h3 align="center">A passionate React developer from Uzbekistan, Navoi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abbosrakhmonov&label=Profile%20views&color=0e75b6&style=flat" alt="abbosrakhmonov" /> </p>
